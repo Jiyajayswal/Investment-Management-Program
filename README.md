@@ -1,7 +1,7 @@
-# CIS*2430 (Fall 2024) Assignment 
+# Investment Management Project
 
 
-### Name: Jiya Jayswal
+
 ### Compilation: javac ePortfolio/*.java
 ### Run Command: java ePortfolio.Main investments.txt
 
